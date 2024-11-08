@@ -1,7 +1,6 @@
 fileFormatVersion: 2
 guid: bc9c7e2be608ffb4f900d02be002262e
 PluginImporter:
-  externalObjects: {}
   serializedVersion: 1
   iconMap: {}
   executionOrder: {}
@@ -14,6 +13,10 @@ PluginImporter:
       enabled: 0
       settings:
         DefaultValueInitialized: true
+    WindowsStoreApps:
+      enabled: 0
+      settings:
+        CPU: AnyCPU
   userData: 
   assetBundleName: 
   assetBundleVariant: 
